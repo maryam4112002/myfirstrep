@@ -1,10 +1,10 @@
  
-public class ibrahim {
+public class mariam {
 
    
     public static void main(String[] args) {
          
-        System.out.println("Ibrahim Sabry Mohamed");
+        System.out.println("mariam salh");
     }
     
 }
