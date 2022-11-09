@@ -1,5 +1,5 @@
 From openjdk
 workdir /app
-copy ibrahim.java .
-run javac ibrahim.java
-cmd java  ibrahim 
+copy mariam.java .
+run javac mariam.java
+cmd java  mariam 
